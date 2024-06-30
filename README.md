@@ -34,7 +34,4 @@
 ### Fale Conosco
 - Formulário de contato
 
-## Outros Detalhes
-- Itens inseridos através do Bootstrap
-
 > **Nota**: O site é fictício, portanto, o restaurante não é real. Os links de redes sociais não levam a lugar algum.
